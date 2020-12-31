@@ -13,7 +13,6 @@ Sadly whole procedure would be a bit harder on Windows machine ;(
 
 # Inspiration
 <blockquote class="reddit-card" data-card-created="1609448560"><a href="https://www.reddit.com/r/MapPorn/comments/f85vqv/this_is_how_londons_street_grid_reveals_using/">This is how London's street grid reveals using only my cycling journeys over the last 5 years.</a> from <a href="http://www.reddit.com/r/MapPorn">r/MapPorn</a></blockquote>
-<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
 # Tools
 - [Qgis](https://www.qgis.org/en/site/forusers/download.html) (>=3.12)
